@@ -393,5 +393,5 @@ This is not a claim of cultural superiority. It is acknowledgment that SCOT's ep
 ---
 
 © Kelvin Chau, 2026
-This work is part of the [Same Coin Ontological Thesis)](https://github.com/kfkchau/SCOT/).
+This work is part of the [Same Coin Ontological Thesis](https://github.com/kfkchau/SCOT/).
 Licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
